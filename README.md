@@ -12,3 +12,7 @@ Look at some of my other projects:
 * [Discord-Webhooks](https://github.com/CurvingSphinx4/discord-webhooks)
 * [Pterodactyl Panel Discord Bot](https://github.com/CurvingSphinx4/pterodactyl-discord)
 * [StoryBooks](https://github.com/CurvingSphinx4/StoryBooks)
+
+Contact me through: 
+
+[![](https://img.shields.io/twitter/follow/CurvingSphinx4?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/CurvingSphinx4)
