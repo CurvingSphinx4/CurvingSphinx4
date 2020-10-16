@@ -15,5 +15,5 @@ Look at some of my other projects:
 
 Contact me through: 
 
-* [![](https://img.shields.io/twitter/follow/CurvingSphinx4?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/CurvingSphinx4)
-* [![](https://img.shields.io/badge/CurvingSphinx4%237789-Add%20Me-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/ReNGph5)
+[![](https://img.shields.io/twitter/follow/CurvingSphinx4?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/CurvingSphinx4)
+[![](https://img.shields.io/badge/CurvingSphinx4%237789-Add%20Me-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/ReNGph5)
