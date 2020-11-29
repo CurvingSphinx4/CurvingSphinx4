@@ -1,6 +1,6 @@
 ### Hi There 👋.
 
-I'm CurvingShinx4, a 15 year old developer.
+I'm CurvingShinx4, a 16 year old developer.
 
 Here's some of the things I'm doing:
 
